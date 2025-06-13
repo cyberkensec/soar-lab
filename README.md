@@ -73,17 +73,15 @@ VirusTotal API
 AbuseIPDB API
 
 👨‍💻 Author
-Stephen Okeke
+Kenechukwu Okeke
 GitHub: @cyberkensec
 
 🧠 Ideal For
-Cybersecurity Portfolios
+- Intermediate to Advanced Cybersecurity Practitioners
+- SOC Analysts looking to automate workflows
+- Cybersecurity Portfolios demonstrating SOAR capabilities
+- Candidates preparing for Blue Team and Security Automation roles
 
-Entry-level SOC Analyst Practice
-
-Threat Hunting Labs
-
-SOAR & Automation Engineering Demos
 
 📜 License
 This project is open-source and free to use under the MIT License.
