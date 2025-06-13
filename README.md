@@ -34,11 +34,11 @@ soar-lab/
 │ └── virustotal.py
 └── main.py
 
-yaml
-Copy
-Edit
 
 ---
+## 🖼️ Screenshots
+<img src="screenshots/run-output.png" width="500" alt="Run Output">
+<img src="screenshots/project-structure.png" width="500" alt="Folder View">
 
 ## 🔧 Installation
 
@@ -60,14 +60,8 @@ Edit
 1.1.1.1
 badfilehash1234567890
 Then run:
-
-bash
-Copy
-Edit
 python main.py
-## 🖼️ Screenshots
-<img src="screenshots/run-output.png" width="500" alt="Run Output">
-<img src="screenshots/project-structure.png" width="500" alt="Folder View">
+
 🌐 APIs Used
 VirusTotal API
 
