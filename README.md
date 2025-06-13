@@ -66,7 +66,8 @@ Copy
 Edit
 python main.py
 🖼️ Screenshots
-<img src="screenshots/run-output.png" width="500" alt="Run Output"> <img src="screenshots/project-structure.png" width="500" alt="Folder View">
+<img src="screenshots/run-output.png" width="500" alt="Run Output">
+<img src="screenshots/project-structure.png" width="500" alt="Folder View">
 🌐 APIs Used
 VirusTotal API
 
